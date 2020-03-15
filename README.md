@@ -1,11 +1,11 @@
 
 <h1><a href="https://www.zhaozijing.cn">my-blog</a></h1>
 
-# 本项目完全是出于学习与交流的目的。
+# 本开源项目一切为了更好的学习和实践
 
 >my-blog
 
-> 博客基本功能都已实现，后续还会一直更新下去！
+> 博客基本功能都已实现，后续还会一直更新下去！本项目基于mayDay基础进行更改
 
 ## 使用说明
 1. 下载代码
@@ -21,28 +21,12 @@
 ### 关于评论功能
 目前没有打算自己写评论功能。用的两个评论插件[gitalk](https://github.com/gitalk/gitalk)和[valine](https://ioliu.cn/2017/add-valine-comments-to-your-blog/)
 ## 图片演示
-![install.png](https://images.gitee.com/uploads/images/2019/0117/112452_b81fbb50_1574192.png)
-![index.png](https://images.gitee.com/uploads/images/2019/0117/112455_a6973f29_1574192.png)
-![login.png](https://images.gitee.com/uploads/images/2019/0117/112450_7ae99bba_1574192.png)
-![admin.png](https://images.gitee.com/uploads/images/2019/0117/112450_3a600852_1574192.png)
-![post.png](https://images.gitee.com/uploads/images/2019/0117/112451_d6754471_1574192.png)
-![profile.png](https://images.gitee.com/uploads/images/2019/0117/112451_499f580f_1574192.png)
-![theme.png](https://images.gitee.com/uploads/images/2019/0117/112451_a4e0016a_1574192.png)
-![tag.png](https://images.gitee.com/uploads/images/2019/0117/112451_05569d9b_1574192.png)
-![upload_attach.png](https://images.gitee.com/uploads/images/2019/0117/112451_50127984_1574192.png)
-![attach.png](https://images.gitee.com/uploads/images/2019/0117/112451_66bac3bf_1574192.png)
-![write_post.png](https://images.gitee.com/uploads/images/2019/0117/112454_1b3d8fa9_1574192.png)
-![menu.png](https://images.gitee.com/uploads/images/2019/0117/112452_58ac3c2d_1574192.png)
-![link.png](https://images.gitee.com/uploads/images/2019/0117/112452_ecf27d79_1574192.png)
-![new_page.png](https://images.gitee.com/uploads/images/2019/0117/112455_e9bdbee6_1574192.png)
-![option.png](https://images.gitee.com/uploads/images/2019/0117/112452_c40d529a_1574192.png)
-![page.png](https://images.gitee.com/uploads/images/2019/0117/112452_6c1d4dd7_1574192.png)
-![category.png](https://images.gitee.com/uploads/images/2019/0117/112452_0e35930e_1574192.png)
-![index_archives.png](https://images.gitee.com/uploads/images/2019/0117/112453_cc8c9773_1574192.png)
-![index_links.png](https://images.gitee.com/uploads/images/2019/0117/112453_1208a83f_1574192.png)
-![index_post.png](https://images.gitee.com/uploads/images/2019/0117/112454_327abed1_1574192.png)
+![install.png](http://www.zhaozijing.top/upload/2020/3/myblog-0120200315183520487.png)
+![index.png](http://www.zhaozijing.cn/upload/2020/3/myblog-0220200315183349296.png)
+![login.png](http://www.zhaozijing.cn/upload/2020/3/myblog-032020031518334921.png)
+![admin.png](http://www.zhaozijing.cn/upload/2020/3/myblog-0420200315183349882.png)
 ## 开源协议
-[MIT](https://gitee.com/song_haozhi/mayday/blob/master/LICENSE)
+[MIT](https://github.com/18601344960/my-blog/blob/master/LICENSE)
 ## 致谢：
  1. [SpringBoot](http://spring.io/projects/spring-boot) 版本2.0.4
  2. [MyBatis](http://www.mybatis.org/mybatis-3/) ORM框架
