@@ -20,9 +20,10 @@
 ### 关于评论功能
 目前没有打算自己写评论功能。用的两个评论插件[gitalk](https://github.com/gitalk/gitalk)和[valine](https://ioliu.cn/2017/add-valine-comments-to-your-blog/)
 ## 图片演示
-![index.png](http://www.zhaozijing.top/upload/2020/3/myblog-0220200315183349296.png)
-![login.png](http://www.zhaozijing.top/upload/2020/3/myblog-032020031518334921.png)
-![admin.png](http://www.zhaozijing.top/upload/2020/3/myblog-0420200315183349882.png)
+![index.png](http://www.zhaozijing.top/upload/2020/3/myblog-1020200315193223371.jpeg)
+![tab.png](http://www.zhaozijing.top/upload/2020/3/myblog-1120200315193220653.jpeg)
+![login.png](http://www.zhaozijing.top/upload/2020/3/myblog-122020031519321567.jpeg)
+![admin.png](http://www.zhaozijing.top/upload/2020/3/myblog-1320200315193220616.jpeg)
 ## 开源协议
 [MIT](https://github.com/18601344960/my-blog/blob/master/LICENSE)
 ## 致谢：
