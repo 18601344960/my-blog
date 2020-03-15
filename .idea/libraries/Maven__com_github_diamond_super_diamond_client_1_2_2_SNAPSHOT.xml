@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.diamond:super-diamond-client:1.2.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/diamond/super-diamond-client/1.2.2-SNAPSHOT/super-diamond-client-1.2.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/diamond/super-diamond-client/1.2.2-SNAPSHOT/super-diamond-client-1.2.2-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/diamond/super-diamond-client/1.2.2-SNAPSHOT/super-diamond-client-1.2.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
