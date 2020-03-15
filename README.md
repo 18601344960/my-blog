@@ -3,9 +3,8 @@
 
 # 本开源项目一切为了更好的学习和实践
 
->my-blog
+>my-blog，简约个人博客
 
-> 博客基本功能都已实现，后续还会一直更新下去！本项目基于mayDay基础进行更改
 
 ## 使用说明
 1. 下载代码
@@ -21,7 +20,6 @@
 ### 关于评论功能
 目前没有打算自己写评论功能。用的两个评论插件[gitalk](https://github.com/gitalk/gitalk)和[valine](https://ioliu.cn/2017/add-valine-comments-to-your-blog/)
 ## 图片演示
-![install.png](http://www.zhaozijing.top/upload/2020/3/myblog-0120200315183520487.png)
 ![index.png](http://www.zhaozijing.top/upload/2020/3/myblog-0220200315183349296.png)
 ![login.png](http://www.zhaozijing.top/upload/2020/3/myblog-032020031518334921.png)
 ![admin.png](http://www.zhaozijing.top/upload/2020/3/myblog-0420200315183349882.png)
